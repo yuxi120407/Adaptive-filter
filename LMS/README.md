@@ -1,1 +1,1 @@
-LMS algorithm
+LMS and RLS algorithm
